@@ -1,5 +1,7 @@
 # JudgeWS
 Langchain based RAG implementation to help with ruling questions for the card game Weiss Schwarz. 
+### 6/13/24
+Experimented with using llms to make embeddings. Had great progress, the chatbot can now "understand" a lot more, if I put in a guide to playing a deck it can spit out what to do in situations and even how to counter the deck. having this chatbot make the 'AI' scripts for a game is totally doable.
 ### 6/12/24
 Spent a couple hours today experimenting with the possibility of being able to play the game. While llms have no thinking or logic, maybe if I feed it enough guides it can spit out answers that are good enough! I started by seeing if it could make an ai for the weiss schawrz simulator. All "ai" in there are hardcoded, so it shouldn't be that much of a challenge as long as the RAG works and my chatbot can understand the cards. I found that it was having trouble looking through all the cards, and it only asks a couple questions. I think for this to work rather than having it just look at a list of all the cards I might need to make a file where I tag cards, or label what they are. Another solution might be to tack on more llms, having them ask questions to eachother. 
 
