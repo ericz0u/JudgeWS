@@ -1,5 +1,7 @@
 # JudgeWS
 Langchain based RAG implementation to help with ruling questions for the card game Weiss Schwarz. 
+### 6/18/24
+Studied up on different embedding and text splitting methods. As my documents are pretty short themselves, I think sticking with just length-based text splitting is good enough(although I'll probably end up trying different methods later). I started to use openAI embeddings, and the results are noticably better. Best results so far and seems to be pretty reliable. 
 ### 6/13/24
 Experimented with using llms to make embeddings. Had great progress, the chatbot can now "understand" a lot more, if I put in a guide to playing a deck it can spit out what to do in situations and even how to counter the deck. having this chatbot make the 'AI' scripts for a game is totally doable.
 ### 6/12/24
