@@ -1,0 +1,630 @@
+Name,Card No.,Rarity,Color,Card Type,Level,Cost,Power,Soul,Traits,Triggers,Text
+"""Magical Talent"" Rudeus",MTI/S83-001,RR,Yellow,Character,0,0,1500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] If there are 5 or more cards in your hand, this gains +2000 Power.
+[A] At the start of your Opponent's Attack Phase, you may move this to an empty
+Front Row Center Slot."
+"""Live Seriously"" Rudeus",MTI/S83-002,RR,Yellow,Character,3,2,9000,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] If you have 4 or more ::Six-Sided World:: Characters, this gets -1
+Level while in your hand.
+[C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 6 or higher,
+this gains +1500 Power.
+[A] When this is placed from hand to the Stage, this gains +4500 Power and the
+following ability until the next end of your Opponent's turn. ""[C] During
+Battles involving this, neither player may play BACKUP from hand."""
+"""In the Sunlight"" Rudeus",MTI/S83-003,R,Yellow,Character,0,0,500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] CX COMBO When ""Little Mage"" is placed in your Climax Zone, choose 1
+of your other Characters, and that Character gains the following ability for
+the turn. ""[A] When the Battle Opponent of this becomes Reversed, look at up to
+4 cards from the top of your Library, choose up to 1 ::Six-Sided World::
+Character from among them, show it to your Opponent, put it in your hand, and
+put the remaining cards in the Waiting Room.""
+[S] [(1) Discard a '""Genius Swordfighter"" Paul' from hand to the Waiting Room,
+Rest 2 of your ::Six-Sided World:: Characters] Choose up to 2 Characters with
+::Maid:: and/or ::Sister (Sst-MTI):: and return them to hand."
+"""Adventuring Party Dead End"" Rudeus",MTI/S83-004,R,Yellow,Character,1,1,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] Your other '""Adventuring Party Dead End"" Eris' and '""Adventuring
+Party Dead End"" Ruijerd' gains +2000 Power and the following ability. ""[C] This
+cannot be chosen by your Opponent's effects"".
+[A] [(1) Rest 2 Characters] Put top 2 card of your deck into your Waiting Room,
+choose one of ::Six-Sided World:: character with level X or lower, and return
+back to your hand. X is the total level of those cards."
+"""Daily Growth"" Rudeus",MTI/S83-005,R,Yellow,Character,1,1,4000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[A] CX COMBO [Discard a '""Magical Talent"" Rudeus' from your hand to the
+Waiting Room] At the beginning of your Attack Phase, if there is no Climax in
+your Climax Zone, you may pay cost. If so, search your Library for up to 1
+""From Master to Disciple"", place it to your Climax Zone, and Shuffle your
+Library.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+higher than the Level of your Opponent, you may put that Character in Stock. If
+so, put the bottom card of your Opponent's Stock in the Waiting Room."
+"""Words of Encouragement"" Rudeus",MTI/S83-006,R,Yellow,Character,2,1,7000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] If '""What You Can Offer"" Roxy' is in your Back Row, this gains +3000
+Power and +1 Soul.
+[A] CX COMBO When this attacks, if ""Aqua Heartia"" is in your Climax Zone and
+you have another ::Six-Sided World:: Character, choose a ::Six-Sided World::
+Character in your Waiting Room, return it to your hand, and for the turn this
+gains the following ability. ""[A] When this card's Damage is Cancelled, until
+the next end of your Opponent's turn, this gains +4000 Power."""
+"""Starting Line of Life"" Rudeus",MTI/S83-007,R,Yellow,Character,3,2,10000,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] If there are 2 or fewer Climax cards in your Waiting Room, this gets
+-1 Level while in your hand.
+[A] [Discard a card from your hand to the Waiting Room] When this is placed
+from hand to the Stage, you may pay cost. If so, put the top card of your Clock
+in your Stock."
+"""Brave Boy"" Rudeus",MTI/S83-008,U,Yellow,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] During your turn, all your other ::Six-Sided World:: Characters gain
++500 Power.
+[S] EXPERIENCE [Rest this] If '""Live Seriously"" Rudeus' is in your Level Zone,
+draw a card, and discard a card from your hand to the Waiting Room."
+"""Childish Things"" Rudeus",MTI/S83-009,U,Yellow,Character,2,1,2500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[A] [(4) Discard a ::Six-Sided World:: Character from hand to the Waiting
+Room] When you use the BACKUP of this, you may pay cost. If so, choose 1 of
+your Opponent's Characters and Rest it.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from your hand to the
+Waiting Room]"
+"""Genius Swordfighter"" Paul",MTI/S83-010,U,Yellow,Character,3,2,8500,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] If this is in the Front Row, all your ::Six-Sided World:: Characters
+gain +1500 Power.
+[A] [(1)] When this attacks, you may pay cost. If so, perform Trigger Check
+twice during this attack's Trigger Step.
+[A] [Discard a Character from hand to the Waiting Room] This ability activates
+up to once per turn. During this card's Battle, when Damage you have received
+is Cancelled, put the top card of your Library in the Waiting Room. If that
+card has a Soul Trigger Icon, you may pay cost. If so, deal the same amount of
+Damage to your Opponent. (Damage Cancel can occur)"
+"""Companion"" Rudeus",MTI/S83-011,C,Yellow,Character,0,0,1500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] Your other Front Row Center ::Six-Sided World:: Character gains +1500
+Power.
+[A] CX COMBO [Discard a '""Overflowing Tears"" Sylphiette' from hand to the
+Waiting Room] At the beginning of your Attack Phase, if there is a not a Climax
+in your Climax Zone, you may pay cost. If so, search your Library for up to 1
+""Smile You Gave Me"", place it in your Climax Zone, and Shuffle your Library."
+"""Open-Hearted"" Lilia",MTI/S83-012,C,Yellow,Character,0,0,1500,1,"六面世界 (Six-Sided World), メイド (Maid)",None,"[S] [Rest this] Choose 1 of your Characters, and that Character gains the
+following ability for the turn. ""[A] When the Battle Opponent of this becomes
+Reversed, you may put that Character into your Opponent's Stock. If so, put the
+bottom card of their Stock into their Waiting Room.""
+[S] [Discard an Event from your hand, Rest this] Choose a ::Six-Sided World::
+Character in your Waiting Room and return it to your hand."
+"""Reaching Out"" Rudeus",MTI/S83-013,C,Yellow,Character,0,0,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When this is placed from hand to the Stage, choose 1 of your other
+::Six-Sided World:: Characters, and that Character gains +1000 Power for the
+turn.
+[A] [Return this to your hand] When a Climax is placed to your Climax Zone, you
+may pay cost. If so, look at up to 2 cards from the top of your Library, place
+them back on top of your Library in any order, choose 1 of your Characters, and
+for the turn that Character gains +1000 Power."
+Aisha & Norn,MTI/S83-014,C,Yellow,Character,1,0,4000,1,"六面世界 (Six-Sided World), 妹 (Sister (Sst-MTI))",None,"[A] When this is placed from hand to the Stage, all players perform the
+following action. ""If you have 5 or more cards in Memory, choose 4 cards in
+your Memory, and put all other cards in your Memory into the Waiting Room.""
+[A] When your other ::Six-Sided World:: Character attacks, this gains +2000
+Power for the turn."
+"""Lifegiving"" Zenith",MTI/S83-015,C,Yellow,Character,2,1,3000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[A] BOND '""Live Seriously"" Rudeus' or '""Genius Swordfighter"" Paul' [Discard a
+card from hand to the Waiting Room]
+[S] [Rest this] Choose 1 of your '""Live Seriously"" Rudeus' or '""Genius
+Swordfighter"" Paul' and for the turn that Character gains +2500 Power."
+Object of Worship,MTI/S83-016,U,Yellow,Event,1,1,0,0,None,None,"Send this to Memory.
+[A] RECOLLECTION At the beginning of your Climax Phase, if this is in your
+Memory, choose 1 of your Characters with ""Rudeus"" in name, and for the turn,
+that Character gains +2500 Power."
+Figure Making,MTI/S83-017a,U,Yellow,Event,2,1,0,0,None,None,"If you don't have a ::Six-Sided World:: Character, you cannot play this
+from hand.
+Send this to Memory. Choose up to X ::Six-Sided World:: Characters in your
+Waiting Room and return them to your hand. X equals the number of ""Figure
+Making"" in your Memory."
+Man-God,MTI/S83-018,U,Yellow,Event,3,5,0,0,None,None,"If you don't have a ::Six-Sided World:: Character, you cannot play this
+from hand.
+Perform the following 3 effects once in any order.
+""Choose 1 of your Opponent's Characters and either Stand it and move it to an
+empty Slot on your Opponent's Stage, or choose another of your Opponent's
+Characters and Stand and Swap both Characters.""
+""Place all of your Opponent's Stock in the Waiting Room, and place the same
+number of cards from the top of their Library to their Stock.""
+""Choose a Climax in your Opponent's Waiting Room, then put all cards in their
+Waiting Room other than the chosen card into their Library and your Opponent
+Shuffles their Library."""
+Aqua Heartia,MTI/S83-019,CR,Yellow,Climax,0,0,0,0,None,Choice,[C] All your Characters gain +1000 Power and +1 Soul.
+Little Mage,MTI/S83-020,CC,Yellow,Climax,0,0,0,0,None,Soul Bounce,[C] All your Characters gain +1000 Power and +1 Soul.
+"""Childhood Friend"" Sylphiette",MTI/S83-021,RR,Green,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] All your other ::Six-Sided World:: Characters gain +500 Power.
+[S] [(1) Send this to Memory] Look at up to 3 cards from the top of your
+Library, choose up to 1 ::Six-Sided World:: Character from among them, show it
+to your Opponent, put it in your hand, and put the remaining cards in the
+Waiting Room."
+"""Innocent Heart"" Sylphiette",MTI/S83-022,RR,Green,Character,1,0,4500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] CX COMBO When the Battle Opponent of this becomes Reversed, if ""Smile
+You Gave Me"" is in your Climax Zone, look at up to 4 cards from top of your
+Library, choose up to 1 ::Six-Sided World:: Character, reveal it, put it in
+your hand, put the rest in the Waiting Room, choose 1 of your Characters, and
+that Character gains +2000 Power for the turn.
+[A] RECOLLECTION When this attacks, if '""Childhood Friend"" Sylphiette' is in
+your Memory, this gains +2000 Power for the turn."
+"""Superd Warrior"" Ruijerd",MTI/S83-023,RR,Green,Character,3,2,10500,2,"六面世界 (Six-Sided World), 戦士 (Warrior)",Soul,"[A] When this is placed from hand to the Stage, all of your Opponent's
+Characters get -X Power. X equals the Level of that Character times 1000.
+[A] CX COMBO When this attacks, if ""Dead End"" is in your Climax Zone, look at
+up to 2 cards from the top of your Opponent's Library, choose up to 2 and put
+them back on top of their Library in any order, discard the remaining cards
+into their Waiting Room, look at up to 2 cards from the top of your Library,
+choose up to 2 and put them back on top of your Library in any order, and
+discard the remaining cards into your Waiting Room."
+"""Angel's Rest"" Sylphiette",MTI/S83-024,R,Green,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] RECOLLECTION If '""Childhood Friend"" Sylphiette' is in your Memory,
+all of your other ::Six-Sided World:: Characters gain +500 Power.
+[S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 5 cards of
+your Library and put them in the Waiting Room. For each Climax card containing
+a Treasure Trigger Icon revealed this way, search your Library for up to 1
+::Six-Sided World:: Character, show it to your Opponent, put it in your hand,
+and Shuffle your Library."
+"""Forehead Eye"" Ruijerd",MTI/S83-025,R,Green,Character,0,0,2500,1,"六面世界 (Six-Sided World), 戦士 (Warrior)",None,"[A] [Put a card from your hand in Clock] When this is placed from hand to
+the Stage, you may pay cost. If so, search your Library for up to 1 ::Six-Sided
+World:: Character, reveal it, put it in your hand, and shuffle your Library."
+"""Adventuring Party Dead End"" Ruijerd",MTI/S83-026,R,Green,Character,2,2,9000,1,"六面世界 (Six-Sided World), 戦士 (Warrior)",Soul,"[C] If you have another '""Adventuring Party Dead End"" Rudeus' and
+'""Adventuring Party Dead End"" Eris', this gets -1 Level in hand.
+[C] If you have another '""Adventuring Party Dead End"" Rudeus' and '""Adventuring
+Party Dead End"" Eris', this gains +1 Soul and the following 2 abilities. ""[C]
+During Battles involving this, your Opponent may not play Events from hand.""
+""[A] When this Direct Attacks, you may choose a ::Six-Sided World:: Character
+in your Waiting Room and place it in your Stock."""
+"""My Childhood Friend"" Sylphiette",MTI/S83-027,R,Green,Character,3,2,9500,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] RECOLLECTION If you have 2 or more '""Childhood Friend"" Sylphiette' in
+your Memory, this gains +1500 Power and ""[A] ENCORE [Discard a Character from
+hand to the Waiting Room]"".
+[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so,
+your Opponent places all of their Stock in their Waiting Room, then puts the
+same number of cards from the top of their Library to Stock."
+"""Combat Readiness"" Ruijerd",MTI/S83-028,R,Green,Character,3,2,9500,2,"六面世界 (Six-Sided World), 戦士 (Warrior)",Soul,"[C] If '""Magical Talent"" Rudeus' is in your Clock, this gets -1 Level
+while in your hand.
+[A] When this is placed from hand to the Stage, you may put the bottom card of
+your Clock in the Waiting Room.
+[A] CHANGE [Return this to your hand] At the start of your Climax Phase, you
+may pay cost. If so, choose up to 1 '""Superd Warrior"" Ruijerd' in your hand and
+put it in the Slot this was in."
+"""Quarter Elf Girl"" Sylphiette",MTI/S83-029,R,Green,Character,3,2,10000,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] Character Opposite this gets -1 Soul.
+[C] RECOLLECTION If there are 3 or more cards in your Memory, this gains +1000
+Power.
+[A] CX COMBO When the Battle Opponent of this becomes Reversed, if ""Future
+Mage"" is in your Climax Zone and you have 2 or more other ::Six-Sided World::
+Characters, you may put the top card of your Clock into the Waiting Room, and
+until the next end of your Opponent's turn, this gains the following ability.
+""[C] Character Opposite this gets -1 Soul."""
+"""Pretty Boy?"" Sylphiette",MTI/S83-030,U,Green,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When this is placed from hand to the Stage, choose up to 1 of your
+Opponent's Characters and Send it to Memory, and your Opponent puts that
+Character from Memory to any Slot on their Stage.
+[A] [Discard a Climax card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, choose a ::Six-Sided
+World:: Character in your Waiting Room and return it to your hand."
+Adventurer's Guild Receptionist,MTI/S83-031,U,Green,Character,0,0,1000,1,"六面世界 (Six-Sided World), ギルド (Guild)",None,"[A] When this is placed from hand to the Stage, if you have 2 or more
+other ::Six-Sided World:: Characters, you may draw a card. If so, discard a
+card from your hand to the Waiting Room.
+[S] BRAINSTORM [(1)] Flip over the top 4 cards of your Library and put them in
+the Waiting Room. For each Climax card revealed this way, perform the following
+action. ""Search your Library for up to 1 ::Six-Sided World:: Character, show it
+to your Opponent, put it in your hand, choose a card in your hand, discard it
+to your Waiting Room, and Shuffle your Library."""
+Tokurabu Village Toughs,MTI/S83-032a,U,Green,Character,0,0,1500,1,"六面世界 (Six-Sided World), 冒険者 (Adventurer)",None,"[A] When this attacks, if you have 1 or fewer other Characters, you may
+put the top card of your Library in the Waiting Room. If it's a Level 0 or
+lower Character, put it in any Slot in the Back Row.
+[S] [Discard a card from your hand to the Waiting Room, Put this in the Waiting
+Room] Choose a ::Six-Sided World:: Character in your Waiting Room and return it
+to your hand."
+P-Hunters,MTI/S83-033a,U,Green,Character,0,0,3500,1,"六面世界 (Six-Sided World), 冒険者 (Adventurer)",None,"[C] If this is on the Stage, this is also considered to have ""Dead End
+Ruijerd"" as the name.
+[C] All of your Opponent's Characters gain ""[A] ENCORE [(2)]"".
+[A] When this is placed from hand to the Stage, you may choose a card in your
+hand and put it in your Stock."
+"""Mastering Magic"" Sylphiette",MTI/S83-034,U,Green,Character,1,0,3500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] RECOLLECTION On your turn, if you have a card in Memory, this gains
++2500 Power and the following ability. ""[A] When this attacks, if the Character
+Opposite this is Level 2, for the turn this gains +6000 Power.""
+[C] EXPERIENCE If '""Live Seriously"" Rudeus' is in your Level Zone, this gains
++1000 Power and the following ability. ""[C] This card can be played from hand
+without satisfying the color conditions."""
+"""Shining Eyes"" Sylphiette",MTI/S83-035,U,Green,Character,2,1,3500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] If you have another ""Rudeus"", this gains +6000 Power.
+[A] CX COMBO [(1) Send this to Memory] If ""Future Mage"" is in your Climax Zone
+and you have another ::Six-Sided World:: Character, you may pay cost. If so,
+choose a '""Quarter Elf Girl"" Sylphiette' in your Waiting Room and place it to
+the Slot this was in."
+"""Awesome Tribe"" Ruijerd",MTI/S83-036,C,Green,Character,0,0,500,1,"六面世界 (Six-Sided World), 戦士 (Warrior)",None,"[A] [Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, choose a ""Soul of a
+Superd"" in your Waiting Room and return it to your hand.
+[S] [Counter] BACKUP 1000, Level 0 [Discard this card from your hand to the
+Waiting Room]"
+Nokopara,MTI/S83-037,C,Green,Character,0,0,1500,1,"六面世界 (Six-Sided World), 冒険者 (Adventurer)",None,"[A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If it's either a ::Six-Sided Character:: Character or an Event,
+put it in your hand, and discard a card from your hand to the Waiting Room.
+(Otherwise put the revealed card back where it was)"
+"""Overflowing Tears"" Sylphiette",MTI/S83-038,C,Green,Character,0,0,3000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,-- None --
+"""Time for Just Us Two"" Sylphiette",MTI/S83-039,C,Green,Character,1,0,3500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] If you have another Character with ""Rudeus"" or ""Sylphiette"" in name,
+this gains +3000 Power."
+"""Companion"" Sylphiette",MTI/S83-040,C,Green,Character,1,0,4500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] If you have 2 or more other ::Six-Sided World:: Characters, this
+gains +1000 Power.
+[A] RECOLLECTION When this attacks, if '""Childhood Friend"" Sylphiette' is in
+your Memory, choose 1 of your ::Six-Sided World:: Characters and for the turn
+this gains +2000 Power."
+"""Passionate Resentment"" Ruijerd",MTI/S83-041,C,Green,Character,1,1,500,1,"六面世界 (Six-Sided World), 戦士 (Warrior)",Soul,"[A] When you use the BACKUP of this, reveal the top card of your Library.
+If it's a ::Six-Sided World:: Character, put it in your hand and discard a card
+from your hand to the Waiting Room. (Otherwise put it back where it was)
+[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from your hand to the
+Waiting Room]"
+"""Studying with Rudy"" Sylphiette",MTI/S83-042,C,Green,Character,1,1,3500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[A] When this is placed from hand to the Stage, if you have 2 or less
+cards in Memory, you may choose a '""Childhood Friend"" Sylphiette' in your
+Waiting Room and send it to Memory.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+higher than the Level of the Opponent, you may put the top card of your
+Opponent's Clock in the Waiting Room. If so, put that Character in Clock."
+"""In the Sunlight"" Sylphiette",MTI/S83-043,C,Green,Character,1,1,4500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] ASSIST All your ::Six-Sided World:: Characters in front of this gain
++X Power. X = 500 times Level of that Character.
+[A] When your Character Triggers a Climax with a Treasure Trigger Icon, you may
+draw a card. If so, choose a card from your hand and discard it to the Waiting
+Room."
+"""Injured Pride"" Ruijerd",MTI/S83-044,C,Green,Character,2,1,5000,1,"六面世界 (Six-Sided World), 戦士 (Warrior)",Soul,"[C] RECOLLECTION if ""Soul of a Superd"" is in your Memory, this gains
++4500 Power.
+[A] CX COMBO When this attacks, if ""Children and Warrior"" is in your Climax
+Zone, choose up to 1 ::Six-Sided World:: Character in your Waiting Room, place
+it to Stock, and reveal the top card of your Library. If that card is a
+::Six-Sided World:: Character or ""Soul of a Superd"", put it in your hand.
+(Otherwise put it back)"
+Soul of a Superd,MTI/S83-045,U,Green,Event,1,1,0,0,None,None,"Choose 1 of your Characters, and that Character gains +4000 Power for the
+turn.
+Send this to Memory.
+[A] RECOLLECTION At the beginning of your Main Phase, if this is in your
+Memory, look at up to 2 cards from the top of your Library and put them back in
+any order."
+Sylph,MTI/S83-046,U,Green,Event,2,1,0,0,None,None,"[Counter] If you have 1 or fewer ::Six-Sided World:: Characters, you
+cannot play this from hand.
+Choose and perform 1 of the following 2 abilities.
+""Choose 1 of your Characters, and for the turn that Character gains +4000
+Power.""
+""You may choose a 'Sylph' in your hand and discard it to your Waiting Room. If
+you do, choose 1 a Battling Character and for the turn they gain the following
+ability. '[C] This cannot Deal Damage to players.'"""
+Smile You Gave Me,MTI/S83-047,CR,Green,Climax,0,0,0,0,None,Treasure,[C] All your Characters gain +1000 Power and +1 Soul.
+Dead End,MTI/S83-048,CC,Green,Climax,0,0,0,0,None,Treasure,[C] All your Characters gain +1000 Power and +1 Soul.
+Future Mage,MTI/S83-049,CC,Green,Climax,0,0,0,0,None,Treasure,[C] All your Characters gain +1000 Power and +1 Soul.
+Children and Warrior,MTI/S83-050,CC,Green,Climax,0,0,0,0,None,2 Soul,"[A] When this is placed from your hand to your Climax Zone, choose up to
+1 Character in your Waiting Room whose Level is equal to or lower than your
+Level and return it to hand, and select up to 2 Characters and those Characters
+receive +1 Soul for the turn."
+"""Beautiful Swordfighter"" Eris",MTI/S83-051,RR,Red,Character,0,0,1500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] During your turn, if there's a Marker under this, this gains +2000
+Power.
+[A] When this is placed from hand to this Stage, reveal the top card of your
+Library. If it is a ::Six-Sided World:: Character or ""Money Can't Buy Dere!"",
+you may place that card facedown under this as Marker. (otherwise put the
+revealed card back)
+[A] When the Battle Opponent of this becomes Reversed, choose 1 of your other
+Characters, Rest it, and move it to an empty Slot in the Back Row."
+"""Ferocious Tsundere Lady"" Eris",MTI/S83-052,RR,Red,Character,1,1,5500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] If all your Characters are ::Six-Sided World::, this gains +2000
+Power.
+[A] CX COMBO When ""Eris' Apology"" is placed to your Climax Zone, this is in
+your Front Row, and you have another ::Six-Sided World:: Character, put the top
+2 cards of your Library into your Waiting Room, choose a Level X or lower
+::Six-Sided World:: Character from your Waiting Room and return it to hand. X
+equals the sum of the Levels of the cards placed into the Waiting Room by this
+ability. (Climax Cards are considered Level 0)"
+"""Strong Female Swordfighter"" Ghislane",MTI/S83-053,RR,Red,Character,3,2,9000,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] During your turn, if you have 4 or more other ::Six-Sided World::
+Characters, this gains +5000 Power and the following ability. ""[C] In Battles
+involving this Character, your Opponent may not play Events or BACKUP from
+hand.""
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+[A] CX COMBO [(2)] When this attacks, if ""Right Eye of the Demon"" is in your
+Climax Zone, you may pay cost. If so, deal 2 Damage to your Opponent. (Damage
+Cancel can occur)"
+"""Bewitching Invitation"" Eris",MTI/S83-054,R,Red,Character,0,0,2000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[A] [Discard a card from your hand to the Waiting Room] When this is
+placed from the Stage to the Waiting Room, you may pay cost. If so, look at up
+to 4 cards from top of your Library and search for up to 1 Level 1 or higher
+card, reveal it, put it in your hand, and put the rest in the Waiting Room.
+(Climax cards are considered to be Level 0 for this effect)"
+"""Swordsmanship"" Ghislane",MTI/S83-055,R,Red,Character,1,0,4000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] For each of your other ::Six-Sided World:: Characters, this gains
++500 Power.
+[A] ACCELERATE [Put the top card of your Library in your Clock] At the start of
+your Climax Phase, you may pay cost. If so, this gains +1000 Power and the
+following ability for the turn. ""[A] When the Battle Opponent of this becomes
+Reversed, look at up to 4 cards from the top of your Library, choose up to 1
+::Six-Sided World:: Character from among them, show it to your Opponent, put it
+in your hand, and put the remaining cards in the Waiting Room."""
+"""Sword God Style"" Ghislane",MTI/S83-056,R,Red,Character,2,1,2500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[A] [(2) Put a Character from your Stage in the Waiting Room] When you
+use the BACKUP of this, you may pay cost. If so, choose 1 of your Opponent's
+Characters whose Level is higher than your Opponent and put it in the Waiting
+Room.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from your hand to the
+Waiting Room]"
+"""Strong Body"" Ghislane",MTI/S83-057,R,Red,Character,2,2,5000,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] For each other ::Six-Sided World:: Character in your Back Row this
+gains +2000 Power.
+[C] All your other ::Six-Sided World:: Characters gain +1000 Power."
+"""Daughter of the Boreas Family"" Eris",MTI/S83-058,R,Red,Character,3,2,9500,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] If there are 2 or fewer Climax cards in your Waiting Room, this gets
+-1 Level while in your hand.
+[C] If you have 2 or more other ::Six-Sided World:: Characters, this gains
++1500 Power and the following ability. ""[A] [Discard a card from hand to the
+Waiting Room] When this Reverses, you may pay cost. If so, return this to
+hand.""
+[A] When this is placed from hand to the Stage, reveal the top card of your
+Library. If that card is a ::Six-Sided World:: Character or ""You Can't Buy
+Dere!"" you may Deal 1 Damage to your Opponent. (Damage Cancel can occur. Put
+the revealed card back)"
+"""Strength Hidden Inside"" Eris",MTI/S83-059,R,Red,Character,3,2,10000,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[A] CX COMBO When this is placed from hand to the Stage, choose up to 1
+""Special"" in your Waiting Room, return it to your hand, and for the turn this
+gets +1000 Power.
+[A] CX COMBO [(1) Discard a card from hand to the Waiting Room] When this
+card's Damage is not cancelled, if ""Special"" is in your Climax Zone, you may
+pay cost. If so, deal 1 Damage to your Opponent. (Damage cancel can occur)"
+"""Adventuring Party Dead End"" Eris",MTI/S83-060,U,Red,Character,0,0,1000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] If you have another '""Adventuring Party Dead End"" Rudeus' in your
+Back Row, this gains +2000 Power.
+[C] If you have another '""Adventuring Party Dead End"" Ruijerd', this gains
++3000 Power."
+"""Angelic Sleeping Face"" Eris",MTI/S83-061,U,Red,Character,0,0,1500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] If there are 2 or fewer cards in your Stock, this gains +1500 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may choose 1 of your
+Opponent's Level 0 or lower Front Row Characters and place it in their Waiting
+Room."
+"""Mastering Magic"" Eris",MTI/S83-062,U,Red,Character,1,0,4500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] During your turn, if you have 2 or more other ::Six-Sided World::
+Characters, this gains +2000 Power.
+[A] This ability activates up to once per turn. When this becomes Reversed in
+battle, reveal the top card of your Library. If it's Level 2 or higher, you may
+Rest this. (Climax cards are considered Level 0 for this effect. Put the
+revealed card back where it was)"
+"""Boreas Family Bodyguard"" Ghislane",MTI/S83-063,U,Red,Character,1,1,4500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] If you have another Character with ""Rudeus"" or ""Eris"" in name, this
+gains +1500 Power.
+[C] If the Cost of the Character Opposite this is 0 or lower, this does not
+Reverse."
+"""Beast Tribe"" Ghislane",MTI/S83-064,U,Red,Character,2,1,6000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] For each other ::Six-Sided World:: Character in your Back Row this
+gains +2000 Power.
+[A] CX COMBO [(1) Discard a Character from hand to the Waiting Room] When
+""Sword King Ghislane"" is placed to your Climax Zone and this is in your Front
+Row and you have 2 or more other ::Six-Sided World:: Characters, you may pay
+cost. If so, choose 1 of your Opponent's Front Row Level 3 or lower Characters,
+place it in their Waiting Room, and reveal the top card of your Library. If
+that is a ::Six-Sided World:: Character, choose 1 of your Opponent's Back Row
+Level 2 or lower Characters and place it in the Waiting Room."
+Phillip Boreas Greyrat,MTI/S83-065,U,Red,Character,2,2,5000,2,"六面世界 (Six-Sided World), 貴族 (Aristocracy)",Soul,"[C] For each Marker under this, this gains +2000 Power.
+[A] When this is placed from hand to the Stage, choose up to 3 ""Boreas
+Beastperson Maid"" in your Waiting Room and put them face-down under this as
+Marker."
+Sauros Boreas Greyrat,MTI/S83-066,C,Red,Character,0,0,500,1,"六面世界 (Six-Sided World), 貴族 (Aristocracy)",None,"[C] If you are Level 2 or higher, this gains the following ability. ""[S]
+[Place this in the Waiting Room] Choose up to 1 'Phillip Boreas Greyrat' in
+your hand and place it to the Slot this was in.""
+[A] BOND '""Ferocious Tsundere Lady"" Eris' or ""Phillip Boreas Greyrat"" [Discard
+a card from hand to the Waiting Room]"
+Boreas Beastperson Maid,MTI/S83-067a,C,Red,Character,0,0,1000,1,"六面世界 (Six-Sided World), メイド (Maid)",None,"[C] You may have as many copies of cards with the same name as this in
+your deck.
+[C] All of your other RED Characters and Characters with ""Rudeus"" in name gain
++500 Power.
+[S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 4 cards of
+your Library and put them in the Waiting Room. If there is a ""Boreas
+Beastperson Maid"" among those cards, search your Library for up to 1 RED
+Character, show it to your Opponent, put it in your hand, and Shuffle your
+Library."
+Hilda Boreas Greyrat,MTI/S83-068,C,Red,Character,0,0,1500,1,"六面世界 (Six-Sided World), 貴族 (Aristocracy)",None,"[A] When this is placed from hand to the Stage, put the top 2 cards of
+your Library in your Waiting Room. If there were at least 1 Climax card among
+them, choose a Character in your Opponent's Front Row, and that Character gets
+-1000 Power for the turn.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+0 or lower, you may Reverse that Character."
+"""Study Time"" Eris",MTI/S83-069,C,Red,Character,0,0,2500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] This cannot Side Attack.
+[C] During your turn, this gains +2000 Power."
+"""Mastering Magic"" Ghislane",MTI/S83-070,C,Red,Character,1,0,5000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[A] [Return this to your hand] When a Climax if placed in your Climax
+Zone, you may pay cost. If so, choose 1 of your ::Six-Sided World:: Characters,
+and for the turn that Character gains the following ability. ""[A] At the
+beginning of your Attack Phase choose 1 of your other '""Insolence"" Eris' and
+Stand it."""
+"""Clear Look"" Eris",MTI/S83-071,C,Red,Character,1,0,6000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[A] When this is placed from hand to the Stage, place the top card of
+your Library in the Waiting Room. If that card is Level 0 or lower, choose an
+Opponent's Cost 0 or lower Front Row Character and place it in their Waiting
+Room. (Climax cards are considered Level 0 for this effect)
+[A] When this is Front Attacked, put this in the Waiting Room. (Even if the
+Battle Opponent disappears, the attack doesn't become a Direct Attack)"
+"""What Lies Beyond Effort"" Eris",MTI/S83-072,C,Red,Character,1,1,5500,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] For each of your other ::Six-Sided World:: Characters, this gains
++500 Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]"
+"""Costume for Horses"" Eris",MTI/S83-073,C,Red,Character,2,2,6000,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] For each of your other ::Six-Sided World:: Characters, this gains
++1000 Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]"
+"""Insolence"" Eris",MTI/S83-074,C,Red,Character,2,2,9000,2,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,-- None --
+Fangs of the Black Wolf,MTI/S83-075,U,Red,Event,1,1,0,0,None,None,"If you don't have a ::Six-Sided World:: Character, you cannot play this
+from hand.
+Choose a ::Six-Sided World:: Character in your Waiting Room and return it to
+your hand.
+Choose 1 of your Characters, and that Character gains +1000 Power and the
+following ability for the turn. ""[A] When the Battle Opponent of this becomes
+Reversed, you may put the top card of your Library into your Stock."""
+Money Can't Buy Dere!,MTI/S83-076,U,Red,Event,1,1,0,0,None,None,"[Counter] Choose up to 1 of your Battling ::Six-Sided World:: Characters,
+return it to your hand, choose up to 1 Character in your Waiting Room, return
+it to your hand, choose a card in your hand, and discard it to the Waiting Room."
+Eris' Apology,MTI/S83-077,CR,Red,Climax,0,0,0,0,None,Soul Standby,"[A] When this is placed from hand to the Climax Zone, perform the
+[Standby Icon] effect."
+Right Eye of the Demon,MTI/S83-078,CC,Red,Climax,0,0,0,0,None,Soul Standby,"[A] When this is placed from hand to the Climax Zone, perform the
+[Standby Icon] effect."
+Special,MTI/S83-079,CC,Red,Climax,0,0,0,0,None,Salvage,[C] All your Characters gain +1000 Power and +1 Soul.
+Sword King Ghislane,MTI/S83-080,CC,Red,Climax,0,0,0,0,None,Salvage,[C] All your Characters gain +1000 Power and +1 Soul.
+"""What You Can Offer"" Roxy",MTI/S83-081,RR,Blue,Character,0,0,1500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When a Climax is placed to your Climax Zone, choose 1 of your
+Characters and for the turn that Character gains the following ability. ""[A]
+[(1)] When this attacks, you may pay cost. If so, for this attack, perform
+Trigger Check twice during this attack's Trigger Step.""
+[S] BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your Library and
+put them in the Waiting Room. For each Climax card revealed this way, choose up
+to 1 Character in your Waiting Room and return it to your hand."
+"""Warm Look"" Roxy",MTI/S83-082,RR,Blue,Character,3,2,9000,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] During your turn, this gains +2000 Power.
+[A] When this is placed from hand to the Stage, you may put the top card of
+your Clock in the Waiting Room.
+[A] CX COMBO At the end of this card's Attack, if ""Blessing"" is in your Climax
+Zone and you have another ::Six-Sided World:: Character, choose and perform 1
+of the following 2 effects. ""Deal 1 Damage to your Opponent."" ""Choose 2 cards
+from your hand and discard them to your Waiting Room. If 2 cards are discarded,
+Deal 3 Damage to your Opponent."" (Damage Cancel can occur)"
+"""Emerging Sigh"" Roxy",MTI/S83-083,R,Blue,Character,0,0,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When this card is placed onto Stage from hand, look at the top card
+of your Opponent's Library, then look at the bottom card of your Opponent's
+Library. (Put them back where they were)
+[A] [Discard a card from your hand to the Waiting Room] When this is placed
+from hand to the Stage, you may pay cost. If so, choose an ""Amulet of the
+Migurd Tribe"" in your Waiting Room and return it to your hand."
+"""Leading to the Future"" Roxy",MTI/S83-084,R,Blue,Character,1,0,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When you use the BACKUP of this, if you have a ::Six-Sided World::
+Character, choose 1 of your Characters in battle, and that Character gains
++1000 Power for the turn.
+[S] [Counter] BACKUP 1000, Level 1 [Discard this card from your hand to the
+Waiting Room]"
+"""Learning to Cook"" Roxy",MTI/S83-085,R,Blue,Character,1,0,3000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] If you are Level 3 or higher, this gains the following ability. ""[S]
+[Put this in the Waiting Room] Choose up to 1 '""Migurd Mage"" Roxy' in your hand
+and place it it the Slot this was in.""
+[C] All your other '""Jobless Reincarnation"" Rudeus' gain +1000 Power.
+[C] All your other ::Six-Sided World:: Characters gain +500 Power."
+"""In the Sunlight"" Roxy",MTI/S83-086,R,Blue,Character,1,0,4000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] For each of your other ::Six-Sided World:: Characters, this gains
++500 Power.
+[A] CX COMBO [(1)] When your Character's Trigger Check reveals ""From Master to
+Disciple"" or ""Blessing"", you may pay cost. If so, draw a card."
+"""Migurd Mage"" Roxy",MTI/S83-087,R,Blue,Character,3,2,3500,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] ASSIST All your Characters in front of this gain +2000 Power.
+[A] When this is placed from hand to the Stage, draw up to 2 cards, and discard
+a card from your hand to the Waiting Room.
+[A] When your Character's Trigger Check reveals a Climax, choose 1 of your
+Characters and for the turn that Character gains +1000 Power and the following
+ability. ""[A] [(1)] When this attacks, you may pay cost. If so, perform Trigger
+Check twice during this attack's Trigger Step."""
+"""Accumulating Letters"" Roxy",MTI/S83-088,U,Blue,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When this is placed from hand to the Stage, reveal the top card of
+your Library. If that card is a ::Six-Sided World:: Character or an Event, for
+the turn this may Side Attack without Soul penalty. (Put the revealed card
+back)
+[A] When this attacks, choose 1 of your ::Six-Sided World:: Characters, and
+that Character gains +1500 Power for the turn."
+Arumanfi the Bright,MTI/S83-089,U,Blue,Character,0,0,2000,1,"六面世界 (Six-Sided World), 使い魔 (Familiar)",None,"[C] During your turn, this gains +1000 Power.
+[A] When the Battle Opponent of this becomes Reversed, you may Send this to
+Memory. If so, at the start of your next Draw Phase, choose an ""Arumanfi the
+Bright"" in your Memory and put it in any Slot on the Stage."
+Pax Shirone,MTI/S83-090,U,Blue,Character,0,0,3000,1,"六面世界 (Six-Sided World), 王族 (Royalty)",None,"[C] If you do not have another Character with ""Roxy"" in name, this cannot
+attack.
+[A] At the start of your Opponent's Attack Phase, you may move this to an empty
+Slot in your Front Row that has an Opponent's Character Opposite that Slot."
+"""Rudy's Tutor"" Roxy",MTI/S83-091,U,Blue,Character,2,1,6000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] For each of your other ::Six-Sided World:: Characters, this gains
++1000 Power.
+[A] CX COMBO When this attacks, if ""Cumulonimbus"" is in your Climax Zone,
+perform the following action twice. ""Reveal the top card of your Library. If it
+is a ::Six-Sided World:: Character or an Event, put it in your hand.""
+(Otherwise put it back)"
+Kishirika Kishirisu,MTI/S83-092,U,Blue,Character,3,2,7500,2,"六面世界 (Six-Sided World), 魔界大帝 (Demon Empress)",Soul,"[A] When this is placed from hand to the Stage, look at up to 2 cards
+from the top of your Opponent's Library, choose up to 1 card from among them,
+put up to 1 of them on the bottom of their Library, put the remaining cards
+back on top of their Library in any order, and for the turn this gains +2000
+Power.
+[A] When this attacks, choose 1 of your ::Six-Sided World:: Characters and for
+the turn that Character gains +3000 Power.
+[A] When this becomes Reversed in battle, reveal the top card of your Library.
+If it's Level 2 or higher, you may return this to your hand. (Climax cards are
+considered Level 0 for this effect. Put the revealed card back where it was)"
+"""Mean Smile"" Roxy",MTI/S83-093,C,Blue,Character,0,0,1500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] If all your Characters are ::Six-Sided World::, this gains +1000
+Power.
+[A] [(1)] When this attacks, you may pay cost. If so, perform Trigger Check
+twice during this attack's Trigger Step."
+Rokari Migurdia,MTI/S83-094,C,Blue,Character,1,0,2000,1,"六面世界 (Six-Sided World), 魔大陸 (Demon Continent)",None,"[A] BOND '""Warm Look"" Roxy' or ""Rowin Migurdia"" [(1)]
+[A] RESONANCE [Reveal a ""Rowin Migurdia"" from your hand] At the start of your
+Climax Phase, if this is in the Front Row, you may pay cost. If so, all your
+other Characters gain +2000 Power for the turn."
+Rowin Migurdia,MTI/S83-095,C,Blue,Character,1,0,2500,1,"六面世界 (Six-Sided World), 魔大陸 (Demon Continent)",None,"[A] BOND '""Warm Look"" Roxy' or ""Rowin Migurdia"" [(1)]
+[A] RESONANCE [Reveal a ""Rokari Migurdia"" from your hand] At the start of your
+Climax Phase you may pay cost. If so, this gains +6000 Power for the turn."
+Orsted,MTI/S83-096,C,Blue,Character,1,1,4000,1,"六面世界 (Six-Sided World), 龍神 (Dragon-God)",None,"[C] If you have 1 or less other Front Row Characters, this gains +3500
+Power and the Character Opposite this gains the following ability. ""[C] This
+gets -1 Level while on Stage.""
+[C] Character Opposite this gain the following ability. ""[C] If the card
+Opposite this has a higher Level than the Level of this card, this cannot Front
+Attack."""
+"""Recoiling in Disgust"" Roxy",MTI/S83-097,C,Blue,Character,2,1,6500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] EXPERIENCE If '""Live Seriously"" Rudeus' is in your Level Zone, this
+gains +2000 Power and ""[A] ENCORE [Discard a ::Six-Sided World:: Character from
+hand to the Waiting Room]""
+[A] When this attacks, this gains +X Power for the turn. X = 1000 times # of
+your other ::Six-Sided World:: Characters."
+Amulet of the Migurd Tribe,MTI/S83-098,U,Blue,Event,1,0,0,0,None,None,"If you don't have a Character with ""Roxy"" in name, you cannot play this
+from hand.
+Search your Library for up to 1 ::Six-Sided World:: Character, show it to your
+Opponent, put it in your hand, and Shuffle your Library. If a card is added to
+your hand, choose a card from your hand and discard it to the Waiting Room.
+Send this to Memory.
+[A] RECOLLECTION [Send this card to Waiting Room] When you Level Up, if this
+card is in your Memory, you may pay the cost. If so, search your Library for up
+to 1 ::Six-Sided World:: Character, reveal it, and put in your hand, and
+shuffle your Library."
+Blessing,MTI/S83-099,CR,Blue,Climax,0,0,0,0,None,Soul Gate,[C] All your Characters gain +1000 Power and +1 Soul.
+Cumulonimbus,MTI/S83-100,CC,Blue,Climax,0,0,0,0,None,Draw,[C] All your Characters gain +1000 Power and +1 Soul.
+Rudeus Greyrat,MTI/S83-101,PR,Yellow,Character,0,0,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When this is placed from hand to the Stage, if your Opponent has 1 or
+less Characters in the Front Row, choose 1 of your Opponent's Cost 0 or lower
+Front Row Characters and put it in their Waiting Room.
+[A] [(2)] When this is placed from the Stage to the Waiting Room, you may pay
+cost. If so, choose a ::Six-Sided World:: Character in your Waiting Room and
+return it to your hand."
+Sylphiette,MTI/S83-102,PR,Green,Character,2,1,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[A] When you use the BACKUP of this, if you have a ::Six-Sided World::
+Character, choose 1 of your Characters in battle, and that Character gains
++1000 Power for the turn.
+[S] [Counter] BACKUP 2500, Level 2 [(1) Discard this card from your hand to the
+Waiting Room]"
+Ghislane Dedoldia,MTI/S83-103,PR,Red,Character,0,0,3000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[C] If you have no other Characters, this gains +1 Level and +1500
+Power.
+[A] When this becomes Reversed in battle, you cannot use ""[A] ENCORE"" for the
+turn. (This includes ""[A] ENCORE [(3)]"" provided by rules)"
+Eris Boreas Greyrat,MTI/S83-104,PR,Red,Character,2,1,9000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[C] All your Characters gain the following ability. ""[C] This cannot Side
+Attack.""
+[A] When your other ::Six-Sided World:: Character attacks, this gains +X Power
+for the turn. X = 500 times # of your other ::Six-Sided World:: Characters."
+Roxy Migurdia,MTI/S83-105,PR,Blue,Character,0,0,2000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] [Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, put the top 2 cards of your Library in the
+Waiting Room. If there's at least 1 Climax card among them, you may pay cost.
+If so, choose a Character in your Waiting Room and return it to your hand.
+[A] [Rest 1 of your other ::Six-Sided World:: Characters] When this is placed
+from hand to the Stage, you may pay cost. If so, choose a card in your Level
+Zone and a card in your Waiting Room and swap them."
+"""Good Wife, Wise Mother"" Zenith",MTI/S83-T01,TD,Yellow,Character,0,0,500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] Your other '""Beginning of a New Life"" Rudeus' and '""Sword Training""
+Paul' gain +1000 Power.
+[A] BOND / '""Beginning of a New Life"" Rudeus' or '""Sword Training"" Paul'
+[Discard a card from hand]"
+"""Graduation Exam"" Rudeus",MTI/S83-T02,TD,Yellow,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] [Discard a card from your hand to the Waiting Room] When this
+attacks, you may pay cost. If so, choose 1 of your other ::Six-Sided World::
+Characters and return it to your hand.
+[A] When this becomes Reversed, if the Level of the Battle Opponent of this is
+0 or lower, you may put that Character in Stock. If so, put the bottom card of
+your Opponent's Stock in the Waiting Room."
+Paul Greyrat,MTI/S83-T03,TD,Yellow,Character,0,0,1000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",None,"[A] When your Character's Trigger Check reveals a Climax card, choose 1
+of your Characters, and that Character gains +2000 Power for the turn.
+[S] BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your Library and
+put them in the Waiting Room. For each Climax card revealed this way, draw up
+to 1 card."
+Zenith Greyrat,MTI/S83-T04,TD,Yellow,Character,0,0,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] All your other ::Six-Sided World:: Characters gain +500 Power.
+[S] [Rest this] Choose a card in Level Zone and a ::Six-Sided World:: Character
+in your Waiting Room and Swap them."
+Lillia Greyrat,MTI/S83-T05,TD,Yellow,Character,1,0,4000,1,"六面世界 (Six-Sided World), メイド (Maid)",None,"[C] If you have 2 or more other ::Six-Sided World:: Characters, this
+gains +2000 Power.
+[A] ENCORE [Discard a Character card from your hand to the Waiting Room]"
+"""Jobless Reincarnation"" Rudeus",MTI/S83-T06,TD,Yellow,Character,1,0,5000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] CX COMBO EXPERIENCE When this Attacks, if ""From Master to Disciple""
+is in your Climax Zone and the sum of Levels of cards in your Level Zone is 2
+or higher, look at up to 3 cards from the top of your Library, choose up to 1
+::Six-Sided World:: Character from among them, show it to your Opponent, put it
+in your hand, put the remaining cards in your Waiting Room, and for the turn
+this gains +1500 Power."
+"""Beginning of a New Life"" Rudeus",MTI/S83-T07,TD,Yellow,Character,1,0,5500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,-- None --
+"""Mastering Magic"" Rudeus",MTI/S83-T08,TD,Yellow,Character,1,1,1000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[S] [Counter] BACKUP 2500, Level 1 [(1) Discard this card from your hand
+to the Waiting Room]"
+"""Sword Training"" Paul",MTI/S83-T09,TD,Yellow,Character,2,1,7000,1,"六面世界 (Six-Sided World), 剣士 (Swordfighter)",Soul,"[A] When this attacks, this gains +X Power for the turn. X = 1000 times #
+of your other ::Six-Sided World:: Characters.
+[A] During this card's Battle, if Damage you are dealt is cancelled, you may
+return this to your hand."
+"""Chanting"" Rudeus",MTI/S83-T10,TD,Yellow,Character,3,2,10000,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] EXPERIENCE If the sum of Levels of cards in your Level Zone is 6 or
+higher, this gains +1000 Power and cannot be chosen as target of Opponent's
+effects.
+[A] When this is placed from hand to the Stage, look at up to X cards from top
+of your Library, choose up to 1 of them and put it in your hand, and put the
+rest in the Waiting Room. X = # of your ::Six-Sided World:: Characters."
+Trauma From a Past Life,MTI/S83-T11,TD,Yellow,Event,2,0,0,0,None,None,"If you don't have a ::Six-Sided World:: Character, you cannot play this
+from hand.
+Choose and perform 1 of the following 2 effects.
+""Search your Library for up to 1 ::Six-Sided World:: Character, show it to your
+Opponent, put it in your hand, and Shuffle your Library.""
+""Choose 1 of your ::Six-Sided World:: Characters, and until the next end of
+your Opponent's turn it gains +3500 Power. That Character does not Stand during
+your next Stand Phase."""
+From Master to Disciple,MTI/S83-T12,TD,Yellow,Climax,0,0,0,0,None,Choice,[C] All your Characters gain +1000 Power and +1 Soul.
+Within the Flowing Days,MTI/S83-T13,TD,Yellow,Climax,0,0,0,0,None,2 Soul,[C] All your Characters gain +2 Soul.
+"""Loli, Staring Eyes, Unfriendly"" Roxy",MTI/S83-T14,TD,Blue,Character,0,0,1500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] When this is placed from hand to the Stage, choose 1 of your
+::Six-Sided World:: Characters, and that Character gains +1500 Power for the
+turn.
+[A] [(1) Discard a Climax card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, choose a Climax card in
+your Waiting Room and return it to your hand."
+"""Demon"" Roxy",MTI/S83-T15,TD,Blue,Character,0,0,2500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] [(1) Discard a card from your hand to the Waiting Room] When this is
+placed from hand to the Stage, you may pay cost. If so, search your Library for
+up to 1 ::Six-Sided World:: Character, reveal it, put it in your hand, and
+shuffle your Library."
+"""Depressing Feelings"" Roxy",MTI/S83-T16,TD,Blue,Character,0,0,4000,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[A] At the beginning of your Climax Phase, your Opponent may put the top
+2 cards of their Stock in the Waiting Room. If they do, for the turn, this
+cannot Front Attack."
+"""Welcome Party"" Roxy",MTI/S83-T17,TD,Blue,Character,1,0,4500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",None,"[C] During your Opponent's turn, this gains +1000 Power for each of your
+other Back Row ::Six-Sided World:: Characters.
+[A] When this attacks, choose 1 of your other ::Six-Sided World:: Characters,
+and that Character gains +X Power for the turn. X = 500 times # of your other
+::Six-Sided World:: Characters."
+"""Unexpected Failure"" Roxy",MTI/S83-T18,TD,Blue,Character,2,1,4500,1,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[C] ASSIST All your Characters in front of this gain +X Power. X = 500
+times Level of that Character.
+[S] [Rest this] Choose a card in Level Zone and a ::Six-Sided World:: Character
+in your Waiting Room and Swap them."
+"""Chanting"" Roxy",MTI/S83-T19,TD,Blue,Character,3,2,10000,2,"六面世界 (Six-Sided World), 魔術 (Mage)",Soul,"[A] When this is placed from hand to the Stage, you may put the top card
+of your Clock in the Waiting Room.
+[A] [(2) Discard 2 cards from hand to the Waiting Room] When this attacks, you
+may pay cost. If so, Deal 2 Damage to your Opponent. (Damage Cancel can occur)"
+Little Master,MTI/S83-T20,TD,Blue,Climax,0,0,0,0,None,Draw,[C] All your Characters gain +1000 Power and +1 Soul.
