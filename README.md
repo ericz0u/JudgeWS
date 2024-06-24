@@ -1,5 +1,7 @@
 # JudgeWS
 Langchain based RAG implementation to help with ruling questions for the card game Weiss Schwarz. 
+### 6/24/24
+Did some specific questions for the bot asking it whether to do an effect. I made a prompt with the gamestate written out as well as the effect. It was able to get the card and effect from it's vectorstore, and was able to make correct decisions some of the time but not at a very consistent level. It seems to have trouble considering the zones when making decisions, but I think that can be helped by writing out a small guide for each card? or just effects in general.
 ### 6/21/24
 A RAG being able to do judge rulings seems to be pretty easy, my basic llamaindex impelmentation seems to work for pretty much all the rules, maybe needs more training data. I'm playing around more with having a llm play the game, but I think writing out the script for the weiss schwarz simulator like I suggested earlier might be a bit too much for an llm even if I break it down(requires a lot of foresight, planning, ect.). I'll start with just making it make decisions, prompts for each game phase I think that's totally doable. Learning langchain though I feel like while the basics is really simple, there's just so many packages and third party things that the more I look at things the less certain I get lol. 
 
