@@ -1,5 +1,7 @@
 # JudgeWS
 Langchain based RAG implementation to help with ruling questions for the card game Weiss Schwarz. 
+### 6/27/24
+I GOT IT TO WORK A LOT BETTER!! One of the main things was rather than making one prompt, I implemented a conversational chatbot using langchain, first asking one question saying "what should you consider and what zones should you look at" to get the model to actually tell the second prompt what to look for! This broke it down in a way that makes it a lot more accurate, and I'd say with the couple questions I'm asking it definitely plays at a reasonable level, better than a "newbie" player. One problem though is if I want to use this to play it's going to be like $5 a game because I'm using GPT-4. My current plan is I will make a text file of the questions I want to ask it as a benchmark for easy testing, and experiemnt with using llama rather than openAI so it's free. feeling great about the progress so far!
 ### 6/24/24
 Did some specific questions for the bot asking it whether to do an effect. I made a prompt with the gamestate written out as well as the effect. It was able to get the card and effect from it's vectorstore, and was able to make correct decisions some of the time but not at a very consistent level. It seems to have trouble considering the zones when making decisions, but I think that can be helped by writing out a small guide for each card? or just effects in general.
 ### 6/21/24
