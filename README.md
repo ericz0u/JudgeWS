@@ -3,6 +3,9 @@ Langchain implementations to
 1 - help with gamerule questions for card game Weiss Schwarz 
 2 - make an AI opponent that uses RAG to play the game, asking questions and comprehending the gamestate
 The two would be seperate implementations, and the end goal is to make it integrate into a weiss schwarz simulator(either Blake Thoennes' sim, a tabletop simulator, or a netgame like weissfight.net)
+
+### 9/24/2024
+Been messing with it on and off, its very doable if I write out a guide for each card and the interactions, but with just looking at the cards and doing RAG it's understandably very hard for current models to figure out. I think I'll pick one deck that I know very well and write out a guide for the general flow and important interactions. Other than that just waiting for llms to get better at reasoning lol
 ### 6/28/24
 It seems like llama might have some trouble running on google colab, even the smallest 7b param model. I'll continue testing with openAI while looking at other alternatives(maybe gemini nano? I heard the weights for that got leaked on github yesterday lol). Something else I'm trying is that since my data is realtively formatted, at least for the cards, I can make my own retrival system and I think it would work better than llamaindex. The chunks would be more accurately sized and I'd be able to format the data in a better way, something like passing in the card ID number and it searchs for it before spitting out the relative infomration into a prompt, like for example if I were to need to know what is in the waiting room for an effect, I can search the IDs of the cards in the waiting room and output more relevant information like "10x level 0 cards, 4x level 2 cards", ect. and it would make the prompts a lot more precise. I want to try this as I attended the AWS summit DC yesterday and got some decent inspiration, and now feel that if I make the prompt cleaner and more concise the answers will be more consistent. 
 
